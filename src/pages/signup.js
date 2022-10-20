@@ -47,7 +47,7 @@ const SignUp = () => {
   return (
     <div className="flex justify-center items-center text-left p-12">
       <form
-        className="bg-white shadow-2xl rounded px-8 pt-6 pb-8 mb-4"
+        className="bg-slate-300 shadow-2xl rounded px-8 pt-6 pb-8 mb-4"
         onSubmit={onSubmit}
       >
         <div className="-mx-3 flex flex-wrap">

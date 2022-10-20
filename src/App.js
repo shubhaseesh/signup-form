@@ -6,7 +6,7 @@ import Navigation from "./pages/navigation";
 function App() {
   return (
     <BrowserRouter>
-      <header className="bg-slate-200 h-auto justify-center">
+      <header className="h-14 bg-slate-400 justify-center">
         <Navigation />
       </header>
       <section>
